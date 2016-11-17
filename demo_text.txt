@@ -7,3 +7,7 @@ Svar 1.
 Sp. 2
 
 Svar 2.
+
+Sp. 3
+
+Svar 3.
