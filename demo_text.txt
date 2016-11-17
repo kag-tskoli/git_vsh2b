@@ -3,3 +3,7 @@ Demo textaskrá fyrir github
 Sp. 1
 
 Svar 1.
+
+Sp. 2
+
+Svar 2.
